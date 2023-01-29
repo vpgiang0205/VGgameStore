@@ -1,0 +1,1 @@
+tạo những cái lớp class chứa những hàm móc database về hoặc insert vào
